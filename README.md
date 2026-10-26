@@ -1,7 +1,5 @@
 # Zodiac — 쿼터뷰 3D 액션 로그라이크
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-
 졸업 작품으로 1인 개발한 쿼터뷰 3D 액션 로그라이크 게임입니다.
 콘텐츠가 늘어나도 코드가 함께 늘어나지 않는 **데이터 기반 구조**를 중심으로 설계했습니다.
 
