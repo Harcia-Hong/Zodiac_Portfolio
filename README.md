@@ -5,8 +5,8 @@
 졸업 작품으로 1인 개발한 쿼터뷰 3D 액션 로그라이크 게임의 **스크립트 포트폴리오 저장소**입니다.
 콘텐츠가 늘어나도 코드가 함께 늘어나지 않는 **데이터 기반 구조**를 중심으로 설계했습니다.
 
-- 📄 포트폴리오: [Notion](https://antique-softball-f25.notion.site/b55f5aee48fc824bbf1181cfcac17196)
-- 🎬 플레이 영상: [영상 링크]
+- 포트폴리오: [Notion](https://antique-softball-f25.notion.site/b55f5aee48fc824bbf1181cfcac17196)
+- 플레이 영상: [영상 링크]
 
 ---
 
