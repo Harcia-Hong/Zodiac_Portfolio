@@ -6,8 +6,6 @@
 - 포트폴리오: [Notion](https://antique-softball-f25.notion.site/b55f5aee48fc824bbf1181cfcac17196)
 - 플레이 영상: [YouTube](https://youtu.be/Xo3hfrSqskY)
 
-[![Zodiac 플레이 영상](https://img.youtube.com/vi/Xo3hfrSqskY/maxresdefault.jpg)](https://youtu.be/Xo3hfrSqskY)
-
 ---
 
 ## 프로젝트 개요
