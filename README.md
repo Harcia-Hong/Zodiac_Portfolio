@@ -4,7 +4,9 @@
 콘텐츠가 늘어나도 코드가 함께 늘어나지 않는 **데이터 기반 구조**를 중심으로 설계했습니다.
 
 - 포트폴리오: [Notion](https://antique-softball-f25.notion.site/b55f5aee48fc824bbf1181cfcac17196)
-- 플레이 영상: [영상 링크]
+- 플레이 영상: [YouTube](https://youtu.be/Xo3hfrSqskY)
+
+[![Zodiac 플레이 영상](https://img.youtube.com/vi/Xo3hfrSqskY/maxresdefault.jpg)](https://youtu.be/Xo3hfrSqskY)
 
 ---
 
